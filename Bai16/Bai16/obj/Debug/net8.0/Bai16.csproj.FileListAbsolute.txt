@@ -1,0 +1,14 @@
+D:\Prn212\Bai16\Bai16\bin\Debug\net8.0\Bai16.exe
+D:\Prn212\Bai16\Bai16\bin\Debug\net8.0\Bai16.deps.json
+D:\Prn212\Bai16\Bai16\bin\Debug\net8.0\Bai16.runtimeconfig.json
+D:\Prn212\Bai16\Bai16\bin\Debug\net8.0\Bai16.dll
+D:\Prn212\Bai16\Bai16\bin\Debug\net8.0\Bai16.pdb
+D:\Prn212\Bai16\Bai16\obj\Debug\net8.0\Bai16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prn212\Bai16\Bai16\obj\Debug\net8.0\Bai16.AssemblyInfoInputs.cache
+D:\Prn212\Bai16\Bai16\obj\Debug\net8.0\Bai16.AssemblyInfo.cs
+D:\Prn212\Bai16\Bai16\obj\Debug\net8.0\Bai16.csproj.CoreCompileInputs.cache
+D:\Prn212\Bai16\Bai16\obj\Debug\net8.0\Bai16.dll
+D:\Prn212\Bai16\Bai16\obj\Debug\net8.0\refint\Bai16.dll
+D:\Prn212\Bai16\Bai16\obj\Debug\net8.0\Bai16.pdb
+D:\Prn212\Bai16\Bai16\obj\Debug\net8.0\Bai16.genruntimeconfig.cache
+D:\Prn212\Bai16\Bai16\obj\Debug\net8.0\ref\Bai16.dll

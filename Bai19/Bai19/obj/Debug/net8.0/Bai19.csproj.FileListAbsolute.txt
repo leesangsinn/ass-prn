@@ -1,0 +1,14 @@
+D:\Prn212\Bai19\Bai19\bin\Debug\net8.0\Bai19.exe
+D:\Prn212\Bai19\Bai19\bin\Debug\net8.0\Bai19.deps.json
+D:\Prn212\Bai19\Bai19\bin\Debug\net8.0\Bai19.runtimeconfig.json
+D:\Prn212\Bai19\Bai19\bin\Debug\net8.0\Bai19.dll
+D:\Prn212\Bai19\Bai19\bin\Debug\net8.0\Bai19.pdb
+D:\Prn212\Bai19\Bai19\obj\Debug\net8.0\Bai19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prn212\Bai19\Bai19\obj\Debug\net8.0\Bai19.AssemblyInfoInputs.cache
+D:\Prn212\Bai19\Bai19\obj\Debug\net8.0\Bai19.AssemblyInfo.cs
+D:\Prn212\Bai19\Bai19\obj\Debug\net8.0\Bai19.csproj.CoreCompileInputs.cache
+D:\Prn212\Bai19\Bai19\obj\Debug\net8.0\Bai19.dll
+D:\Prn212\Bai19\Bai19\obj\Debug\net8.0\refint\Bai19.dll
+D:\Prn212\Bai19\Bai19\obj\Debug\net8.0\Bai19.pdb
+D:\Prn212\Bai19\Bai19\obj\Debug\net8.0\Bai19.genruntimeconfig.cache
+D:\Prn212\Bai19\Bai19\obj\Debug\net8.0\ref\Bai19.dll

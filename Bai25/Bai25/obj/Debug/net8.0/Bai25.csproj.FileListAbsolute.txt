@@ -1,0 +1,14 @@
+D:\Prn212\Bai25\Bai25\bin\Debug\net8.0\Bai25.exe
+D:\Prn212\Bai25\Bai25\bin\Debug\net8.0\Bai25.deps.json
+D:\Prn212\Bai25\Bai25\bin\Debug\net8.0\Bai25.runtimeconfig.json
+D:\Prn212\Bai25\Bai25\bin\Debug\net8.0\Bai25.dll
+D:\Prn212\Bai25\Bai25\bin\Debug\net8.0\Bai25.pdb
+D:\Prn212\Bai25\Bai25\obj\Debug\net8.0\Bai25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prn212\Bai25\Bai25\obj\Debug\net8.0\Bai25.AssemblyInfoInputs.cache
+D:\Prn212\Bai25\Bai25\obj\Debug\net8.0\Bai25.AssemblyInfo.cs
+D:\Prn212\Bai25\Bai25\obj\Debug\net8.0\Bai25.csproj.CoreCompileInputs.cache
+D:\Prn212\Bai25\Bai25\obj\Debug\net8.0\Bai25.dll
+D:\Prn212\Bai25\Bai25\obj\Debug\net8.0\refint\Bai25.dll
+D:\Prn212\Bai25\Bai25\obj\Debug\net8.0\Bai25.pdb
+D:\Prn212\Bai25\Bai25\obj\Debug\net8.0\Bai25.genruntimeconfig.cache
+D:\Prn212\Bai25\Bai25\obj\Debug\net8.0\ref\Bai25.dll
