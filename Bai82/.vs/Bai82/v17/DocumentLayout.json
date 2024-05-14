@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SUMMER2024-Ki5\\PRN212\\BaiTapTuan1\\Bai82\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE3D070-2AD6-4B73-A81F-2235E1D18B77}|Bai82\\Bai82.csproj|d:\\summer2024-ki5\\prn212\\baitaptuan1\\bai82\\bai82\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE3D070-2AD6-4B73-A81F-2235E1D18B77}|Bai82\\Bai82.csproj|solutionrelative:bai82\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SUMMER2024-Ki5\\PRN212\\BaiTapTuan1\\Bai82\\Bai82\\Program.cs",
+              "RelativeDocumentMoniker": "Bai82\\Program.cs",
+              "ToolTip": "D:\\SUMMER2024-Ki5\\PRN212\\BaiTapTuan1\\Bai82\\Bai82\\Program.cs",
+              "RelativeToolTip": "Bai82\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:56:43.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

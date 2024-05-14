@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Prn212\\Bai27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC480D1-3E54-4F33-B329-14A9709F7A03}|Bai27\\Bai27.csproj|d:\\prn212\\bai27\\bai27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC480D1-3E54-4F33-B329-14A9709F7A03}|Bai27\\Bai27.csproj|solutionrelative:bai27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Prn212\\Bai27\\Bai27\\Program.cs",
+              "RelativeDocumentMoniker": "Bai27\\Program.cs",
+              "ToolTip": "D:\\Prn212\\Bai27\\Bai27\\Program.cs",
+              "RelativeToolTip": "Bai27\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:15:08.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

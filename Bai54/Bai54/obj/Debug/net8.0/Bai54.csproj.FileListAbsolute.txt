@@ -1,0 +1,15 @@
+D:\SUMMER2024-Ki5\PRN212\BaiTapTuan1\Bai54\Bai54\bin\Debug\net8.0\Bai54.exe
+D:\SUMMER2024-Ki5\PRN212\BaiTapTuan1\Bai54\Bai54\bin\Debug\net8.0\Bai54.deps.json
+D:\SUMMER2024-Ki5\PRN212\BaiTapTuan1\Bai54\Bai54\bin\Debug\net8.0\Bai54.runtimeconfig.json
+D:\SUMMER2024-Ki5\PRN212\BaiTapTuan1\Bai54\Bai54\bin\Debug\net8.0\Bai54.dll
+D:\SUMMER2024-Ki5\PRN212\BaiTapTuan1\Bai54\Bai54\bin\Debug\net8.0\Bai54.pdb
+D:\SUMMER2024-Ki5\PRN212\BaiTapTuan1\Bai54\Bai54\obj\Debug\net8.0\Bai54.GeneratedMSBuildEditorConfig.editorconfig
+D:\SUMMER2024-Ki5\PRN212\BaiTapTuan1\Bai54\Bai54\obj\Debug\net8.0\Bai54.AssemblyInfoInputs.cache
+D:\SUMMER2024-Ki5\PRN212\BaiTapTuan1\Bai54\Bai54\obj\Debug\net8.0\Bai54.AssemblyInfo.cs
+D:\SUMMER2024-Ki5\PRN212\BaiTapTuan1\Bai54\Bai54\obj\Debug\net8.0\Bai54.csproj.CoreCompileInputs.cache
+D:\SUMMER2024-Ki5\PRN212\BaiTapTuan1\Bai54\Bai54\obj\Debug\net8.0\Bai54.sourcelink.json
+D:\SUMMER2024-Ki5\PRN212\BaiTapTuan1\Bai54\Bai54\obj\Debug\net8.0\Bai54.dll
+D:\SUMMER2024-Ki5\PRN212\BaiTapTuan1\Bai54\Bai54\obj\Debug\net8.0\refint\Bai54.dll
+D:\SUMMER2024-Ki5\PRN212\BaiTapTuan1\Bai54\Bai54\obj\Debug\net8.0\Bai54.pdb
+D:\SUMMER2024-Ki5\PRN212\BaiTapTuan1\Bai54\Bai54\obj\Debug\net8.0\Bai54.genruntimeconfig.cache
+D:\SUMMER2024-Ki5\PRN212\BaiTapTuan1\Bai54\Bai54\obj\Debug\net8.0\ref\Bai54.dll
